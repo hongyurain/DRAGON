@@ -3,7 +3,7 @@
 Pytorch implementation for "Enhancing Dyadic Relations with Homogeneous Graphs for Multimodal Recommendation"
 
 ## Data
-Data could be download from xx: [Baby/Sports/Clothing](xx)  
+Data could be download from DropBox: [Baby/Sports/Clothing](https://www.dropbox.com/sh/zod0te5akcxt6qa/AAAS28iGqX2wdN56j-DCyTcma?dl=0)  
 ## Run the code
 1. Download the data from the data link we provided above, then put the download data to the ./data folder
 2. Use ```conda env create -f dragon.yml``` to create the enviroment with correct dependencies
