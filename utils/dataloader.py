@@ -1,5 +1,4 @@
 # coding: utf-8
-# @email: enoche.chow@gmail.com
 """
 Wrap dataset into dataloader
 ################################################

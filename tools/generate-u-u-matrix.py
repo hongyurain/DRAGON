@@ -1,6 +1,3 @@
-# 对应于Preprocess-ml-imdb.py文件
-
-
 import numpy as np
 from collections import defaultdict
 from tqdm import tqdm
