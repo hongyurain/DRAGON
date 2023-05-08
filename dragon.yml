@@ -97,4 +97,3 @@ dependencies:
     - tokenizers==0.11.6
     - tqdm==4.63.0
     - transformers==4.17.0
-prefix: /home/zhouxin/miniconda3/envs/ztorch
