@@ -1,6 +1,6 @@
 # DRAGON
 
-Pytorch implementation for "Enhancing Dyadic Relations with Homogeneous Graphs for Multimodal Recommendation"
+Pytorch implementation for "Enhancing Dyadic Relations with Homogeneous Graphs for Multimodal Recommendation" -ECAI'23 [arxiv](https://arxiv.org/pdf/2301.12097.pdf)
 
 ## Data
 Data could be download from DropBox: [Baby/Sports/Clothing](https://www.dropbox.com/sh/yti9m3pprzprukv/AAA9LhKKUDZiPUp3kVv1hZALa?dl=0)  
@@ -17,3 +17,12 @@ Data could be download from DropBox: [Baby/Sports/Clothing](https://www.dropbox.
 | Sports   | 0.0001      | 0.001     |
 | Clothing     | 0.0001      | 0.1     |
 
+#### Please consider to cite our paper if this model helps you, thanks:
+```
+@article{zhou2023enhancing,
+  title={Enhancing Dyadic Relations with Homogeneous Graphs for Multimodal Recommendation},
+  author={Zhou, Hongyu and Zhou, Xin and Shen, Zhiqi},
+  journal={arXiv preprint arXiv:2301.12097},
+  year={2023}
+}
+```
